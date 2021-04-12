@@ -16,3 +16,5 @@ Work on Transpiler: Yes
 - pcall lol
 - setfield
 - getfield
+- pushstring
+- pushvalue
